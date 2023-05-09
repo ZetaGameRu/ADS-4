@@ -47,5 +47,5 @@ int countPairs3(int *arr, int len, int value) {
         start = mid;
     }
   }
-  return zhabka;
+  return object;
 }
